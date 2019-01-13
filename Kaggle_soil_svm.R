@@ -1,3 +1,5 @@
+# This model placed 4th of 1233 in the Africa Soil Properties Prediction Challenge
+
 library(e1071)
 library(performanceEstimation)
 
